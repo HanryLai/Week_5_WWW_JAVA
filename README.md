@@ -28,16 +28,16 @@
 
 ## Hình ảnh minh họa
 - **Đăng nhập**
-  ![](E:\IUH\KH_I_2024_2025\WWW_Java\excercise\week5\images\login.png)
+  ![](https://github.com/HanryLai/Week_5_WWW_JAVA/blob/main/images/login.png?raw=true)
 - **Trang chủ ứng viên (Gơị ý kĩ năng còn thiếu và gợi ý job dựa trên kĩ năng)**
-  ![](E:\IUH\KH_I_2024_2025\WWW_Java\excercise\week5\images\homeCandidate.png)
+  ![](https://github.com/HanryLai/Week_5_WWW_JAVA/blob/main/images/homeCandidate.png?raw=true)
 - **Trang chủ công ty**
-  ![](E:\IUH\KH_I_2024_2025\WWW_Java\excercise\week5\images\compan_home.png)
+  ![](https://github.com/HanryLai/Week_5_WWW_JAVA/blob/main/images/compan_home.png?raw=true)
 - **Công ty đăng tin tuyển dụng**
-  ![](E:\IUH\KH_I_2024_2025\WWW_Java\excercise\week5\images\company_postjob.png)
+  ![](https://github.com/HanryLai/Week_5_WWW_JAVA/blob/main/images/company_postjob.png?raw=true)
 - **Tìm kiếm công việc**
-  ![](E:\IUH\KH_I_2024_2025\WWW_Java\excercise\week5\images\findJob.png)
+  ![](https://github.com/HanryLai/Week_5_WWW_JAVA/blob/main/images/findJob.png?raw=true)
 - **Tìm kiếm ứng viên**
-  ![](E:\IUH\KH_I_2024_2025\WWW_Java\excercise\week5\images\candidateTienNang.png)
+  ![](https://github.com/HanryLai/Week_5_WWW_JAVA/blob/main/images/candidateTienNang.png?raw=true)
 - **Công ty gửi mail cho ứng viên**
-  ![](E:\IUH\KH_I_2024_2025\WWW_Java\excercise\week5\images\sendMail.png)
+  ![](https://github.com/HanryLai/Week_5_WWW_JAVA/blob/main/images/sendMail.png?raw=true)
